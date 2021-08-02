@@ -1,0 +1,19 @@
+.topclass{
+    background-color: black;
+    position: fixed;
+    width:100%;
+    height:100%;
+}
+.maintext{
+    font-size:14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
+.leftside{
+    border: 2px solid #fff;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    position: absolute;
+    top:10px;
+    left:15px;
+}
